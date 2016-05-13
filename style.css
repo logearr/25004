@@ -1,0 +1,43 @@
+html {
+	border-top: 0.3em #e81c4f solid;
+}
+
+body {
+	font-family: 'Georgia', 'Times New Roman', sans-serif;
+}
+
+h1 a {
+	color: black;
+	text-decoration: none;	
+}
+
+h1 a:visited {
+	color: black;
+}
+
+h1 a:hover {
+	color: #e81c4f;
+}
+
+ol {
+	padding-left: 1.2em;
+}
+
+ol li {
+	font-size: 1.1em;
+	line-height: 2em;
+}
+
+#container {
+	margin: 0 auto;
+	width: 70%;	
+}
+
+#copy {
+	font-size:0.9em;
+}
+
+#key p {
+	font-size: 0.8em;
+	font-style: oblique;
+}
